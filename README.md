@@ -1,9 +1,9 @@
-# BLOG-ASSIGNMENT10
+# React header layout fix
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/creativebisnis40-5303s-projects/v0-blog-assignment-10)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/AqESs3vwRpe)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/creativebisnis40-5303s-projects/v0-react-header-layout-fix)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/E6ZrU1qPXc3)
 
 ## Overview
 
@@ -14,13 +14,13 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/creativebisnis40-5303s-projects/v0-blog-assignment-10](https://vercel.com/creativebisnis40-5303s-projects/v0-blog-assignment-10)**
+**[https://vercel.com/creativebisnis40-5303s-projects/v0-react-header-layout-fix](https://vercel.com/creativebisnis40-5303s-projects/v0-react-header-layout-fix)**
 
 ## Build your app
 
 Continue building your app on:
 
-**[https://v0.dev/chat/projects/AqESs3vwRpe](https://v0.dev/chat/projects/AqESs3vwRpe)**
+**[https://v0.dev/chat/projects/E6ZrU1qPXc3](https://v0.dev/chat/projects/E6ZrU1qPXc3)**
 
 ## How It Works
 
